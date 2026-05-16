@@ -1,0 +1,31 @@
+# Archivos de compilación
+*.o
+*.a
+*.so
+*.dylib
+*.lo
+
+# Directorios de compilación
+build/
+.build/
+
+# Makefiles
+Makefile
+
+# Archivos de Qt
+.qmake.stash
+*.pro.user
+
+# Ejecutables
+*.out
+
+# Archivos del IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
