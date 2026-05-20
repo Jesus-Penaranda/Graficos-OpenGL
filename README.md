@@ -5,9 +5,9 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-GLSL-5586A4)
 ![FIB](https://img.shields.io/badge/FIB-UPC-orange)
 
-Bienvenido a mi repositorio de soluciones de practicas de la asignatura de graficos de la **Facultat d'Informatica de Barcelona (FIB - UPC)**.
+Bienvenido a mi repositorio de soluciones de prácticas de la asignatura de gráficos de la **Facultad de Informática de Barcelona (FIB - UPC)**.
 
-Aqui se recopilan ejercicios de shaders y plugins en C++/Qt para un viewer 3D, con tecnicas que van desde lo basico de GLSL hasta bloques mas avanzados de renderizado.
+Aquí se recopilan ejercicios de shaders y plugins en C++/Qt para un viewer 3D, con técnicas que van desde lo básico de GLSL hasta bloques más avanzados de renderizado.
 
 ---
 
@@ -63,5 +63,5 @@ make
 ```
 
 > [!CAUTION]
-> Este repositorio se comparte con fines docentes y de referencia. Usalo para aprender y comparar enfoques, no para copiar entregas tal cual.
+> Este repositorio se comparte con fines docentes y de referencia. Úsalo para aprender y comparar enfoques, no para copiar entregas tal cual.
 
